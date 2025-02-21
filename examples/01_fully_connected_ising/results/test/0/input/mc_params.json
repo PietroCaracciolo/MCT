@@ -1,0 +1,12 @@
+{
+  "Nt": 50,
+  "Tf": 0.01,
+  "Ti": 10,
+  "checkpoint_option": false,
+  "cooling_schedule": "exponential",
+  "create_directory": true,
+  "mcs_av": 1000,
+  "mcs_eq": 1000,
+  "simulation_id": "0",
+  "simulation_name": "test"
+}

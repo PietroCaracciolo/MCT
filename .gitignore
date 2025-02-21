@@ -1,0 +1,136 @@
+# =============================
+# Build artifacts
+# =============================
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+*.out
+
+# =============================
+# CMake and build directories
+# =============================
+/CMakeCache.txt
+/CMakeFiles/
+/cmake-build-*/
+build/
+CMakeLists.txt.user
+
+# =============================
+# Debugging and profiling
+# =============================
+gmon.out
+vgcore.*
+core.*
+
+# =============================
+# Logs and temporary files
+# =============================
+*.log
+*.tmp
+*.pid
+*.seed
+
+# =============================
+# OS-specific files
+# =============================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+
+# Linux
+*~
+.nfs*
+
+# =============================
+# Editor and IDE settings
+# =============================
+
+# Vim
+*.swp
+*.swo
+
+# VS Code
+.vscode/
+
+# JetBrains (CLion, IntelliJ)
+.idea/
+
+# Eclipse
+.project
+.cproject
+.settings/
+
+# Xcode
+*.xcworkspace/
+*.xcuserdata/
+*.xccheckout
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Emacs
+*~
+
+# =============================
+# Add Jupyter notebook checkpoints
+# =============================
+.ipynb_checkpoints/
+
+# =============================
+# Dependency directories
+# =============================
+/node_modules/
+/venv/
+/__pycache__/
+/target/
+/bin/
+/obj/
+
+# =============================
+# Package managers
+# =============================
+
+# Conan
+conan.lock
+conanbuildinfo.*
+conaninfo.*
+
+# CCache
+ccache/
+
+# =============================
+# Generated documentation
+# =============================
+/docs/doxygen/
+*.html
+*.pdf
+
+# =============================
+# Archives
+# =============================
+*.tar
+*.gz
+*.zip
+*.7z
+*.rar
+
+# =============================
+# Xcode Profiling Files
+# =============================
+*.profdata
+*.trace

@@ -1,0 +1,8 @@
+{
+  "interactions_initialization": "file",
+  "state_initialization": "file",
+  "save_average_energy": true,
+  "save_average_energy2": true,
+  "save_average_energy4": true,
+  "save_average_m": true
+}

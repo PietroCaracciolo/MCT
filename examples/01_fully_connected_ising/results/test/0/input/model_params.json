@@ -1,0 +1,9 @@
+{
+  "N": 20,
+  "interactions_initialization": "file",
+  "state_initialization": "random",
+  "save_average_energy": true,
+  "save_average_energy2": true,
+  "save_average_energy4": true,
+  "save_magnetization": true
+}
