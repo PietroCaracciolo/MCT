@@ -35,13 +35,13 @@ The process from installation to analyzing your simulation results involves thre
 Once your **implemented your model**, and **wrote the input files** you can run a simulation from terminal using the following command: 
 
 ```bash
-./executable.exe <simulation_name> <simulation_ID>
+./executable <simulation_name> <simulation_ID>
 ```
 
 For example if your input files are stored in the folder `input/test/0` the command will be:
 
 ```bash
-./executable.exe test 0
+./executable test 0
 ```
 
 ## 4. Examples
