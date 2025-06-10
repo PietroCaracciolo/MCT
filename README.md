@@ -54,3 +54,7 @@ This project is licensed under the BSD 3-Clause License - see the [LICENSE](./LI
 ### Acknowledgments
 - This project utilizes parts of `frusa_mc`, developed by the **Soft Biophysics Group LPTMS**, and released under the BSD 3-Clause License.
 - It also includes [`json`](https://github.com/nlohmann/json) by Niels Lohmann (MIT License).
+
+
+### Contact
+If you have any issues with the code please let me know by e-mail at: pietro.caraccioloditorella@gmail.com
